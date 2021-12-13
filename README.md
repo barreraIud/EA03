@@ -21,3 +21,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # EA3
 # EA3
 # EA3
+
+Cordial saludo profesor. Hicimos la actividad en pareja: Cindy Natally Estrada Jiménez y Carlos Alberto Barrera
